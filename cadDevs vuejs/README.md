@@ -1,7 +1,3 @@
-# teknisa
-
-> Treinamento teknisa
-
 ## Build Setup
 
 ``` bash
